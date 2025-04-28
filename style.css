@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#dice {
+    font-size: 325.5px;
+    display: inline-block;
+    line-height: 1;
+}
+#dice:hover{
+    cursor: pointer;
+}
